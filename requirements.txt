@@ -1,0 +1,12 @@
+jupyterlab==4.2.4
+matplotlib~=3.10.0
+numpy==2.0.1
+pandas==2.2.2
+scipy==1.14.1
+factor_analyzer==0.5.1
+kaleido==0.1.0 #this version required to save plotly plots, new versions lock kernel into running in background operation
+nltk==3.9.1
+scikit-learn==1.5.2
+kneed==0.8.5
+plotly==6.0.0
+Levenshtein~=0.26.1
