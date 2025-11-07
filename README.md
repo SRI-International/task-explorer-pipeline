@@ -17,7 +17,7 @@ smile,1,greet
 walk,1,greet
 ```
 
-ASCEND data can be found at ascend-data.sri.com. Download a zip file ending with "-clean-data.zip" and extract the 300_wf.csv file and the 200_terminal_features.csv files.
+ASCEND data can be found at [ascend-data.sri.com](ascend-data.sri.com). Download a zip file ending with "-clean-data.zip" and extract the 300_wf.csv file and the 200_terminal_features.csv files.
 
 # Running the TEP
 If running on ASCEND data, then ensure you have the 300_wf.csv file and the 200_terminal_features.csv file in the data directory. Also set the "ascend_ctf_data" boolean to True, otherwise set to false and rename "csv_file_name"
