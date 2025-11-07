@@ -1,5 +1,7 @@
 If there are any issues running the TEP, please contact me at thomas.a.odem@gmail.com
 
+Further details about the architecture of the TEP can be found in my thesis paper [here](https://arxiv.org/abs/2511.01728)
+
 # Requirements
 All requirements are found in requirements.txt. I would suggest making a virtual enviornment with the requirements.
 
